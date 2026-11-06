@@ -1,0 +1,7 @@
+BLANCHE — SITE COMPLET
+
+Extraire entièrement le ZIP puis ouvrir index.html dans Chrome ou Edge. Garder assets, style.css et app.js avec index.html.
+
+Musique : lecteur en bas à droite, lecture/pause, volume et sourdine via les commandes du lecteur. Cliquer sur son titre pour le replier. Pas de démarrage sonore automatique. Le morceau boucle et continue entre les sections. Le volume est mémorisé lorsque le navigateur autorise le stockage local.
+
+Le site et la musique fonctionnent hors ligne. Les polices externes peuvent être remplacées par les polices de secours sans connexion.
